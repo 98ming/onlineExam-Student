@@ -1,0 +1,61 @@
+{
+  "status": 0,
+  "id": 1,
+  "message": [
+    {
+      "no": 1,
+      "content": "第一章 绪论",
+      "child": [
+        {
+          "cno": 1,
+          "content": "第一节 认识数据结构"
+        },
+        {
+          "cno": 2,
+          "content": "第二节 进一步学习"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "content": "第二章 线性表",
+      "child": [
+        {
+          "cno": 1,
+          "content": "第一节 线性表的初识"
+        },
+        {
+          "cno": 2,
+          "content": "第二节内容"
+        },
+        {
+          "cno": 3,
+          "content": "第三节内容"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "content": "第三章 栈与队列",
+      "child": [
+        {
+          "cno": 1,
+          "content": "第一节内容"
+        },
+        {
+          "cno": 2,
+          "content": "第二节内容"
+        },
+        {
+          "cno": 3,
+          "content": "第三节内容"
+        },
+        {
+          "cno": 4,
+          "content": "第四节内容"
+        }
+      ]
+    }
+  ]
+
+}
